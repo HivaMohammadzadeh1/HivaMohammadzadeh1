@@ -54,4 +54,4 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p align="center"><i>Always up for a good conversation about agents, LLMs, or making models run faster — reach me at <a href="https://hivam.org">hivam.org</a>.</i></p>
+<p align="center"><i>💬 If you're interested in chatting — about agents, LLM efficiency, or anything above — I'd love to hear from you. Reach out anytime → <a href="https://hivam.org">hivam.org</a></i></p>
