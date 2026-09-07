@@ -13,6 +13,7 @@
   <a href="mailto:hiva@stanford.edu"><img src="https://img.shields.io/badge/Stanford-hiva@stanford.edu-8C1515?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:hiva@berkeley.edu"><img src="https://img.shields.io/badge/Berkeley-hiva@berkeley.edu-003262?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hivamohammadzadeh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/hiva_moh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=gbtywUsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 </p>
 
@@ -24,16 +25,24 @@
 
 ### 🧠 What I work on
 
-I build and study AI/ML systems, across the stack:
+**🛡️ Building — AI-agent & LLM security.** Making agents safe and robust enough to actually deploy.
 
-- 🛡️ **AI-agent & LLM security** — making agents safe and robust to deploy
-- 🤖 **AI agents & memory** — self-improving agents and continual learning
-- 🗣️ **NLP & language models** — classic NLP through modern LLMs
-- 🎯 **Reinforcement learning & RLHF**
-- ⚙️ **Efficient ML** — quantization and ML on hardware, down to FPGAs
-- 🏗️ **ML systems** — the engineering that makes the above actually run
+**🔬 Researching — efficient, capable LLMs & agents:**
 
-🎓 UC Berkeley EECS (ML, NLP, systems, architecture) → Stanford MS CS, with undergraduate research along the way.
+- ⚡ **Efficient LLM inference** — KV-cache quantization, speculative decoding, long-context (up to 10M tokens)
+- 🗜️ **Model compression** — quantization, sparsity, faster inference
+- 🤖 **AI agents & systems** — system-level design for multi-agent LLMs
+- 🎯 Also into reinforcement learning, NLP, and ML on hardware (down to FPGAs)
+
+🎓 UC Berkeley EECS → Stanford MS CS (AI & Systems), with published research along the way.
+
+### 📄 Selected publications
+
+- **KVQuant** — Towards 10-Million Context-Length LLM Inference · *NeurIPS 2024*
+- **Squeezed Attention** — Accelerating Long-Context LLM Inference · *ACL 2025*
+- **SPEED** — Speculative Pipelined Execution for Efficient Decoding · *NeurIPS 2023 Workshop*
+
+<sub>Full list → <a href="https://scholar.google.com/citations?user=gbtywUsAAAAJ&hl=en">Google Scholar</a></sub>
 
 ### 🛠️ Tech
 
