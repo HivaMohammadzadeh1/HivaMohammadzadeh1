@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🔭 &nbsp;Currently building <b>AI-agent security</b> at <b>Unclave</b> &nbsp;·&nbsp; 🥷 we're in <b>stealth mode</b>
+  🔭 &nbsp;Currently building <b>AI-agent security</b> &nbsp;·&nbsp; 🥷 we're in <b>stealth mode</b>
 </p>
 
 ---
